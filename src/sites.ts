@@ -229,4 +229,29 @@ export const sites: Site[] = [
 		href: "https://linju.io",
 		thumbnail: "linju.io.gif",
 	},
+	{
+		title: "Riri's Personal Website",
+		href: "https://daydreamer-riri.me/",
+		thumbnail: "daydreamer-riri.me.png",
+	},
+	{
+		title: "About - Xiaohan Zou",
+		href: "https://zxh.me",
+		thumbnail: "zxh.me.png",
+	},
+	{
+		title: "Q.Ben Zheng | Zhengqbbb",
+		href: "https://qbb.sh",
+		thumbnail: "qbb.sh.png",
+	},
+	{ 
+		title: "RockyThink", 
+		href: "https://blog.rockythink.work", 
+		thumbnail: "blog.rockythink.work.png" 
+	},
+	{ 
+		title: "EthanLoo's", 
+		href: "https://blog.ethanloo.cn", 
+		thumbnail: "ethanloo.cn.png" 
+	},
 ];
